@@ -1,9 +1,6 @@
 <?php
 
 require_once 'BangunDatar.php';
-require_once 'Lingkaran.php';
-require_once 'Persegi.php';
-require_once 'Segitiga.php';
 
 $bd = new BangunDatar();
 
